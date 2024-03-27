@@ -7,6 +7,8 @@ This is a simple ad blocker extension designed to run locally in your browser. I
 - Blocks ads on websites.
 - Customizable filters.
 
+![km_20240327_2160p_60f_20240327_210809](https://github.com/xaybid/ad-blocker/assets/94035811/72d8bcc8-acaf-4488-8c08-6269947ce283)
+
 ## Installation
 
 Follow these steps to install and use the Local Ad Blocker Extension:
